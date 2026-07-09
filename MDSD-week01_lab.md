@@ -1821,11 +1821,13 @@ MaterialApp
 ```
 Prompt แบบ Simple ให้รายละเอียดน้อย
 ```
+
 <img width="1187" height="702" alt="image" src="https://github.com/user-attachments/assets/44925ad4-66f7-45a9-98dc-177b99b5b70e" />
 
 ```
 Prompt แบบ Detailed ระบุความต้องการอย่างชัดเจน ทั้งโครงสร้าง Widget การจัดวาง ขนาดตัวอักษร สี 
 ```
+
 <img width="1175" height="671" alt="image" src="https://github.com/user-attachments/assets/9967460a-ad2f-4e1e-9b90-d714ae3b5c39" />
 
 ### 3.5 Screenshot ของ AI Chat App
@@ -1833,6 +1835,7 @@ Prompt แบบ Detailed ระบุความต้องการอย่
 ```
 [แนบ Screenshot ของ Gemini AI Chat ที่ทำงานได้]
 ```
+
 <img width="487" height="663" alt="image" src="https://github.com/user-attachments/assets/b83f8d97-b65f-4e14-9aaa-1a335fd5be45" />
 
 ```
