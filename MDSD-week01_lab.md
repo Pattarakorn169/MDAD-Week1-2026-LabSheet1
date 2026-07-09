@@ -1249,6 +1249,9 @@ class ProfilePage extends StatelessWidget {
 4. คลิก **"Run"** หรือกด `Ctrl+Enter`
 5. บันทึก Response และสังเกตความแตกต่างเมื่อเรียกซ้ำ
 
+<img width="503" height="588" alt="image" src="https://github.com/user-attachments/assets/9b41c4c2-e891-49cb-9c14-9fdc5dae13b8" />
+
+
 #### ทดลองที่ 2: Code Generation
 
 พิมพ์ Prompt ต่อไปนี้:
