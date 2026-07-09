@@ -1820,7 +1820,7 @@ MaterialApp
 **ความแตกต่างของผลลัพธ์:**
 ```
 Prompt แบบ Simple ให้รายละเอียดน้อย
-```
+
 
 <img width="1187" height="702" alt="image" src="https://github.com/user-attachments/assets/44925ad4-66f7-45a9-98dc-177b99b5b70e" />
 
