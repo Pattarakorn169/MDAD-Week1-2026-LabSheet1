@@ -1787,6 +1787,7 @@ Android SDK Version: 36.0.0
 ```
 <img width="618" height="1017" alt="image" src="https://github.com/user-attachments/assets/1926c650-7b7a-4c7c-95fd-a294fbbe242b" />
 ```
+
 (วาด Widget Tree ของแอปที่สร้างด้วยมือ)
 
 MaterialApp
