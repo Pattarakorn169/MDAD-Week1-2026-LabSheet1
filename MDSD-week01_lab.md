@@ -1249,8 +1249,6 @@ class ProfilePage extends StatelessWidget {
 4. คลิก **"Run"** หรือกด `Ctrl+Enter`
 5. บันทึก Response และสังเกตความแตกต่างเมื่อเรียกซ้ำ
 
-<img width="503" height="588" alt="image" src="https://github.com/user-attachments/assets/9b41c4c2-e891-49cb-9c14-9fdc5dae13b8" />
-
 
 #### ทดลองที่ 2: Code Generation
 
@@ -1747,13 +1745,39 @@ flutter run
 flutter doctor output:
 ┌─────────────────────────────────────────────────────────┐
 │                                                         │
-│  วางผลลัพธ์จาก flutter doctor ที่นี่                    │
+│  วางผลลัพธ์จาก flutter doctor ที่นี่ PS C:\Users\patkorn\week01_hello_flutter> flutter doctor
+Doctor summary (to see all details, run flutter doctor
+-v):
+[√] Flutter (Channel stable, 3.44.4, on Microsoft
+    Windows [Version 10.0.26200.8655], locale th-TH)
+[√] Windows Version (11 Home Single Language 64-bit,
+    25H2, 2009)
+[!] Android toolchain - develop for Android devices
+    (Android SDK version 34.0.0)
+    X Flutter requires Android SDK 36 and the Android
+      BuildTools 28.0.3
+      To update the Android SDK visit
+      https://flutter.dev/to/windows-android-setup for
+      detailed instructions.
+[√] Chrome - develop for the web
+[X] Visual Studio - develop Windows apps
+    X Visual Studio not installed; this is necessary
+      to develop Windows apps.
+      Download at
+      https://visualstudio.microsoft.com/downloads/.
+      Please install the "Desktop development with
+      C++" workload, including all of its default
+      components
+[√] Connected device (3 available)
+[√] Network resources
+
+! Doctor found issues in 2 categories.                   │
 │                                                         │
 └─────────────────────────────────────────────────────────┘
 
-Flutter Version: ___________________
-Dart Version: ______________________
-Android SDK Version: _______________
+Flutter Version: 3.44.4
+Dart Version: 3.12.2
+Android SDK Version: 36.0.0
 ```
 
 ### 3.2 Screenshot ของ Flutter App
@@ -1763,7 +1787,7 @@ Android SDK Version: _______________
 ```
 
 **Widget Tree ที่วาด:**
-
+<img width="503" height="588" alt="image" src="https://github.com/user-attachments/assets/9b41c4c2-e891-49cb-9c14-9fdc5dae13b8" />
 ```
 (วาด Widget Tree ของแอปที่สร้างด้วยมือ)
 
